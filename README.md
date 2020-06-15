@@ -1,3 +1,3 @@
 # CompactClaustrophobia
 
-Here's the git folks. Use the issue tracker pls
+A potential future "lite" version of this incredible modpack.  Thanks YOUR_HAMSTER!  -Brian
